@@ -11,4 +11,4 @@ The modern and minimal design dynamic app has search functionality,the ability t
 4. **Cloudinary:** A cloud-based image storage service
 
 
-![Imagenerate AI Application](https://drive.google.com/file/d/178arHXTSmwHBjuUB34HP-kL7KlzvA-ET/view?usp=share_link)
+<img src="screens/imagenerate-ai-snip.jpg" width="100">
